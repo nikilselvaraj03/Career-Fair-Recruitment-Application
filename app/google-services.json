@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652023984473",
+    "firebase_url": "https://mbafresherrecruitment.firebaseio.com",
+    "project_id": "mbafresherrecruitment",
+    "storage_bucket": "mbafresherrecruitment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652023984473:android:150f637acbf69c67",
+        "android_client_info": {
+          "package_name": "com.example.nikilselvaraj.mbafresherrecruitment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652023984473-aaftth5vrf6aaa9ktr4j9u28m55vo9sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikilselvaraj.mbafresherrecruitment",
+            "certificate_hash": "efd417211fdd459854dbbb3886fb8ad3b64e3657"
+          }
+        },
+        {
+          "client_id": "652023984473-bsmdis2u621jg4449lp3rl67ag2murto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMouLUNkIcYE0V6hqJP15qycPgHLXrd_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652023984473-bsmdis2u621jg4449lp3rl67ag2murto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

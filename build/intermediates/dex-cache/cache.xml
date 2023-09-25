@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/NIKILSELVARAJ/.android/build-cache/803c094061c92c8949d2b2150c7493ff877e0524/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="011cb10505c3feb1e1a0107aa93816e4c6681191">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/pre-dexed/debug/classes_69de77e0571ec4ee81b88d725743023b0dfb5d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NIKILSELVARAJ/.android/build-cache/621c4f2d01174440b71cdf7bfb22abeb8d0ea9cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/pre-dexed/debug/classes_59e8cbfb511afb8f3ba99aae99b09fe55d724d0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NIKILSELVARAJ/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_c66d4caa374946811514f50a547a5217312ae3d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f27c5fab8175c2c97fdb2228fe275a93ac0d254">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a22c5501bf07a790a64bb1a4364c2858841c50fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1e20390a49dd3b53991feba4ff9df0be51c36ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NIKILSELVARAJ/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_931dc7d4acdae394cf0bf9146c349ff7a5fd51af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NIKILSELVARAJ/.android/build-cache/b2b09c7dbba3b021093b2b1c69b0346ee37211f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/NIKILSELVARAJ/AndroidStudioProjects/MBAFresherRecruitment/app/build/intermediates/pre-dexed/debug/classes_57948da0fb51805f024f84785a53c8c7a13ca1b6.jar" />
+    </item>
+
+</items>

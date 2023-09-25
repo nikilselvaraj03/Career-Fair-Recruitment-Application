@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MBA Fresher Recruitment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="error_invalid_userid">This User Id is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_credential">Invalid Password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_studentlist">" "</string>
+    <string name="title_activity_institutionaloptions">" "</string>
+    <string name="title_activity_editlist">EDIT STUDENTLIST</string>
+    <string name="title_activity_selected_students">SELECTED STUDENTS</string>
+    <string name="title_activity_shortlistedstudents">SHORTLISTED STUDENTS</string>
+    <string name="title_activity_waitlistedstudents">WAITLISTED STUDENTS</string>
+    <string-array name="department">
+        <item>Finance and Hr</item>
+        <item>Finance and scm</item>
+        <item>Finance and Market</item>
+        <item>Market  and Hr</item>
+        <item>Market  and scm</item>
+    </string-array>
+</resources>

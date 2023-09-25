@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/allstudents"
+
+            android:title="All Students" />
+        <item
+            android:id="@+id/shortlistedstudents"
+
+            android:title="Shortlisted Students" />
+        <item
+            android:id="@+id/waitlistedstudents"
+            android:title="Waitlisted Students" />
+    </group>
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/pg"
+                android:title="60% And Above in PG"
+             />
+            <item
+                android:id="@+id/ug"
+                android:title="60% And Above in UG"
+                />
+            <item
+                android:id="@+id/we"
+                android:title="With Work Experience"></item>
+        </menu>
+    </item>
+    <group>
+        <item
+            android:title="Contact us"
+            android:id="@+id/contact"></item>
+    </group>
+
+</menu>
